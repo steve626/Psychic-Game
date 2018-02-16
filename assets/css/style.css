@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+h1 {
+    font-size: 100px;
+    font-style: bold;
+    
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size:20px;
+    color: yellow;
+}
